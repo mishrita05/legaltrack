@@ -1,1 +1,3 @@
-# legaltrack
+# LegalTrack
+
+LegalTrack is an AI-powered legal analytics platform designed to predict applicable Indian Penal Code (IPC) sections based on case details. Using advanced Natural Language Processing (NLP) models, it classifies offenses, assists law enforcement, and provides insights into legal trends. The project includes a sentiment analysis module to gauge public perception of specific IPC sections and an interactive chatbot for accessible legal guidance. LegalTrack empowers legal professionals, researchers, and the general public with data-driven insights, promoting faster, more informed decisions. This innovative approach revolutionizes legal analysis, making complex legal information more understandable and actionable.
